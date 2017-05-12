@@ -1,0 +1,11 @@
+c:\users\oleg\documents\visual studio 2015\Projects\TwittApiTest\TwittApiTest\bin\Debug\TwittApiTest.exe.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\TwittApiTest\TwittApiTest\bin\Debug\TwittApiTest.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\TwittApiTest\TwittApiTest\bin\Debug\TwittApiTest.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\TwittApiTest\TwittApiTest\obj\Debug\TwittApiTest.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\documents\visual studio 2015\Projects\TwittApiTest\TwittApiTest\obj\Debug\TwittApiTest.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\TwittApiTest\TwittApiTest\obj\Debug\TwittApiTest.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\TwittApiTest\TwittApiTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\TwittApiTest\TwittApiTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oleg\Source\Repos\TwitterMessageService\TwittApiTest\bin\Debug\TwittApiTest.exe.config
+C:\Users\Oleg\Source\Repos\TwitterMessageService\TwittApiTest\obj\Debug\TwittApiTest.exe
+C:\Users\Oleg\Source\Repos\TwitterMessageService\TwittApiTest\obj\Debug\TwittApiTest.pdb
