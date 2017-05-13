@@ -62,9 +62,7 @@ namespace TwittApiTest.OAuth
             }
             if (string.IsNullOrEmpty(consumerKey))
             {
-
                 throw new ArgumentNullException("consumerKey");
-
             }
             if (string.IsNullOrEmpty(httpMethod))
             {
@@ -93,6 +91,14 @@ namespace TwittApiTest.OAuth
             Parameters.Add(new QueryParameter(O_AUTH_SIGNATURE_KEY, signatureKey));
 
             return signatureKey;
+        }
+
+        public string GenerateSignatureKey(Uri url, string httpMethod, OAuthUser user,
+            string nonce, string timeStamp)
+        {
+            return GenerateSignatureKey(url, httpMethod, user.ConsumerKey,
+            user.ConsumerSecret, user.Token, user.TokenSecret,
+            nonce, timeStamp);
         }
 
         private List<QueryParameter> GetQueryParameters(string parameters)

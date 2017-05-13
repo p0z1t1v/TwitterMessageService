@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TwittApiTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="consumerKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">UK49L81OxOuLTTVFOqchYMgvy</Value>
+    </Setting>
+    <Setting Name="consumerSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sO2xnvWNmU3RhD6UAOKPHqSoGMx8aIYfWZ0ZWl9Mo4XkBRohdS</Value>
+    </Setting>
+    <Setting Name="accessToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">832143668987437056-qpMYR3F03gC7dCsOdHcu7LHa1pK1KzE</Value>
+    </Setting>
+    <Setting Name="tokenSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NfbS3DHKnu03U6vA3qqnyNRoaotGjzSMDidKrVuBBA4bb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
